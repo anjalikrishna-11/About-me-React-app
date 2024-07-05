@@ -1,0 +1,30 @@
+/* src/components/Education.css */
+.education {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .education h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .education-item {
+    margin: 20px 0;
+  }
+  
+  .education-item h3 {
+    color: #555;
+  }
+  
+  .education-item p {
+    color: #777;
+  }
+  
+  .education-item em {
+    color: #999;
+  }
+  
